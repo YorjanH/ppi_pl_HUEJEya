@@ -4,7 +4,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una iniciativa freelance que estoy desarrollando como parte de mis esfuerzos profesionales.
+Hola mi nombres es Yorjan Alexis Hueje y este proyecto es una iniciativa freelance que estoy desarrollando como parte de mis esfuerzos profesionales.
 
 ## Objetivos
 
