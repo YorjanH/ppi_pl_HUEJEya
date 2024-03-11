@@ -4,19 +4,19 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una iniciativa freelance que estoy desarrollando como parte de mis esfuerzos profesionales. [Breve descripción del proyecto y su propósito.]
+Este proyecto es una iniciativa freelance que estoy desarrollando como parte de mis esfuerzos profesionales.
 
 ## Objetivos
 
-- [Objetivo 1]
-- [Objetivo 2]
-- [Objetivo 3]
+- Mejorar mi experiencia laboral.
+- Avanzar en mis conomientos de programacion.
+- Conocer el mundo del freelance.
 
 ## Tecnologías Utilizadas
 
-- [Tecnología 1]
-- [Tecnología 2]
-- [Tecnología 3]
+- Plataformas de comunicacion.
+- Computadoras y software.
+- Plataformas de busqueda de trabajo.
 
 ## Contribución
 
@@ -27,17 +27,3 @@ Este proyecto es una iniciativa freelance que estoy desarrollando como parte de 
 3. Realiza tus cambios y haz commit (`git commit -am 'Añade nueva funcionalidad'`).
 4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
-
-## Acerca del Autor
-
-¡Hola! Soy [Tu Nombre], un [Tu Profesión] con experiencia en [Tus Áreas de Experiencia]. Este proyecto es una muestra de mi trabajo y mi dedicación al campo de la [Tu Área de Especialización].
-
-- **Sitio web:** [Tu Sitio Web]
-- **LinkedIn:** [Tu Perfil de LinkedIn]
-- **Correo Electrónico:** [Tu Correo Electrónico]
-- **Twitter:** [Tu Perfil de Twitter]
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Tipo de Licencia]. Para obtener más detalles, consulta el archivo [LICENSE](LICENSE).
-
