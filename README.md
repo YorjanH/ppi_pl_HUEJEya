@@ -1,22 +1,34 @@
-# Proyecto Freelance
+# Desarrollador Freelance: Transformando Ideas en Software de Calidad
 
-¡Bienvenido/a a mi proyecto freelance en GitHub!
+## Acerca de mí
 
-## Descripción del Proyecto
+¡Hola! Soy Yorjan Alexis Hueje, un estudiante de sexto semestre de Ingeniería de Sistemas en la Universidad Nacional de Colombia con pasión por la programación y el desarrollo de software. Tengo experiencia en una variedad de lenguajes de programación, incluyendo Python, Java, HTML, PHP y C. Además, estoy familiarizado con metodologías ágiles como Scrum, lo que me permite colaborar eficazmente en equipos de desarrollo.
 
-Hola mi nombres es Yorjan Alexis Hueje y este proyecto es una iniciativa freelance que estoy desarrollando como parte de mis esfuerzos profesionales.
+## Servicios Ofrecidos
 
-## Objetivos
+- Desarrollo de aplicaciones web y móviles
+- Desarrollo de software a medida
+- Mantenimiento y optimización de sitios web
+- Automatización de tareas
+- Consultoría en proyectos de desarrollo de software
 
-- Mejorar mi experiencia laboral.
-- Avanzar en mis conomientos de programacion.
-- Conocer el mundo del freelance.
+## Tecnologías Principales
 
-## Tecnologías Utilizadas
+- Lenguajes de Programación: Python, Java, HTML, PHP, C
+- Bases de Datos: MySQL, PostgreSQL
+- Metodologías: Scrum, FDD
 
-- Plataformas de comunicacion.
-- Computadoras y software.
-- Plataformas de busqueda de trabajo.
+## Educación
+
+- Universidad Nacional de Colombia - Ingeniería de Sistemas, Sexto Semestre
+- SENA - tecnico en sistemas
+
+## Contacto
+
+¡Estoy disponible para trabajar en proyectos emocionantes! Si estás interesado en colaborar conmigo o tienes alguna pregunta, no dudes en ponerte en contacto:
+
+- Correo Electrónico: [tobya820@gmail.com]
+- LinkedIn: [tu perfil de LinkedIn]
 
 ## Contribución
 
