@@ -27,7 +27,7 @@
 
 ¡Estoy disponible para trabajar en proyectos emocionantes! Si estás interesado en colaborar conmigo o tienes alguna pregunta, no dudes en ponerte en contacto:
 
-- Correo Electrónico: [tobya820@gmail.com]
+- [Correo Electrónico](tobya820@gmail.com)
 - LinkedIn: [tu perfil de LinkedIn]
 
 ## Contribución
