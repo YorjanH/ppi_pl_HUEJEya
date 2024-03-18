@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-¡Hola! Soy Yorjan Alexis Hueje, un estudiante de sexto semestre de Ingeniería de Sistemas en la Universidad Nacional de Colombia con pasión por la programación y el desarrollo de software. Tengo experiencia en una variedad de lenguajes de programación, incluyendo Python, Java, HTML, PHP y C. Además, estoy familiarizado con metodologías ágiles como Scrum, lo que me permite colaborar eficazmente en equipos de desarrollo.
+Hola, mi nombre es, Yorjan Alexis Hueje, soy un estudiante de sexto semestre de Ingeniería de Sistemas en la Universidad Nacional de Colombia con pasión por la programación y el desarrollo de software. Tengo experiencia en una variedad de lenguajes de programación, incluyendo Python, Java, HTML, PHP y C. Además, estoy familiarizado con metodologías ágiles como Scrum, lo que me permite colaborar eficazmente en equipos de desarrollo.
 
 ## Servicios Ofrecidos
 
